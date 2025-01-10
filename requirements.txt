@@ -1,6 +1,8 @@
 streamlit
-tensorflow>=2.0.0
 Pillow
 numpy
 requests
-keras
+keras==3.8.0
+tensorflow==2.18.0
+beautifulsoup4==4.12.2
+
